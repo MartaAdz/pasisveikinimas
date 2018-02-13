@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518087575 source:c:\users\marta\desktop\objektinis\new folder\pirma_uzd\main.cpp
+	<iostream>
+	<string.h>
+
+1518091819 source:c:\users\marta\desktop\objektinis\uzduotys\pirma_uzd\main.cpp
+	<iostream>
+	<string.h>
+
